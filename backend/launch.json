@@ -1,0 +1,18 @@
+{
+	"configurations": [
+		{
+			"name": "server",
+			"type": "python",
+			"request": "launch",
+			"program": "${file}",
+			"console": "integratedTerminal"
+		},
+		{
+			"name": "server",
+			"type": "python",
+			"request": "launch",
+			"program": "${file}",
+			"console": "externalTerminal"
+		}
+	]
+}
